@@ -1,6 +1,6 @@
 ## Prazer, sou o Willian Riviera
 
-- 🔭 Hoje estou trabalhando com delphi/firemonkey
+- 🔭 Hoje estou trabalhando com Delphi/Firemonkey
 - 🌱 Estou estudando JS, NodeJS e React
 
 <div align="center">
