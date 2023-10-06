@@ -1,7 +1,6 @@
 ## Prazer, sou o Willian Riviera
 
 - 🔭 Hoje estou trabalhando com Delphi/Firemonkey/Ionic/Laravel (PHP)
-- 🌱 Estou estudando JS, NodeJS e React
 
 <div align="center">
   <a href="https://github.com/willxrv">
